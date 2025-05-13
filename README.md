@@ -3,6 +3,6 @@
 
 - **Email**: [johnmuthee547@gmail.com](mailto:johnmuthee547@gmail.com)
 - **Phone**: +254768498013
-- **LinkedIn**: [YourLinkedInUsername](https://www.linkedin.com/in/johnmutheemaina/)
-- **GitHub**: [YourGitHubUsername](https://github.com/mutheejj)
+- **LinkedIn**: [johnmuthee547](https://www.linkedin.com/in/johnmutheemaina/)
+- **GitHub**: [mutheejj](https://github.com/mutheejj)
 
