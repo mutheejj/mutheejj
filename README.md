@@ -21,7 +21,7 @@
 - 🌍 Currently learning Python (AI & Automation)  
 - 🤝 Open to freelance and collaboration opportunities  
 - 💬 Ask me about web development, APIs, or automation  
-- 📫 Reach me: **[johnmuthee57@gmail.com](mailto:johnmuthee57@gmail.com)**  
+- 📫 Reach me: **[johnmuthee57@gmail.com](mailto:johnmuthee547@gmail.com)**  
 - ⚡ Fun fact: I love clean UI, black coffee ☕, and late-night coding sessions.  
 
 ---
