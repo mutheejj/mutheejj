@@ -39,14 +39,14 @@
 <a href="https://github.com/mutheejj/ajira">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=ajira&theme=tokyonight" />
 </a>
-<a href="https://github.com/mutheejj/DesireDial">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=DesireDial&theme=tokyonight" />
+<a href="https://github.com/mutheejj/alx-backend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=alx-backend&theme=tokyonight" />
 </a>
-<a href="https://github.com/mutheejj/Ustawi-Herbs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=Ustawi-Herbs&theme=tokyonight" />
+<a href="https://github.com/mutheejj/alx-backend-python">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=alx-backend-python&theme=tokyonight" />
 </a>
-<a href="https://github.com/mutheejj/Ajira-Global">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=Ajira-Global&theme=tokyonight" />
+<a href="https://github.com/mutheejj/alx-backend-python">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=alx-backend-python&theme=tokyonight" />
 </a>
 
 ---
