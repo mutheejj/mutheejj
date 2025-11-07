@@ -1,8 +1,8 @@
-### Hi there, I'm [John Muthee!](https://johnmuthee.dev) 👋  
+### Hi there, I'm [John Muthee!](https://johnmuthee.helioho.st/) 👋  
 <a href="https://www.linkedin.com/in/johnmuthee"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
 <a href="https://github.com/mutheejj"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
 <a href="https://twitter.com/mutheejj"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" /></a>
-<a href="mailto:johnmuthee57@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
+<a href="mailto:johnmuthee547@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mutheejj)
 
@@ -21,7 +21,7 @@
 - 🌍 Currently learning Python (AI & Automation)  
 - 🤝 Open to freelance and collaboration opportunities  
 - 💬 Ask me about web development, APIs, or automation  
-- 📫 Reach me: **[johnmuthee57@gmail.com](mailto:johnmuthee547@gmail.com)**  
+- 📫 Reach me: **[johnmuthee547@gmail.com](mailto:johnmuthee547@gmail.com)**  
 - ⚡ Fun fact: I love clean UI, black coffee ☕, and late-night coding sessions.  
 
 ---
@@ -52,4 +52,4 @@
 ---
 
 ⭐ **Let’s connect and build something great together.**  
-📩 [LinkedIn](https://www.linkedin.com/in/johnmuthee) | [Portfolio](https://johnmuthee.dev) | [GitHub](https://github.com/mutheejj)
+📩 [LinkedIn](https://www.linkedin.com/in/johnmuthee) | [Portfolio](https://johnmuthee.helioho.st/) | [GitHub](https://github.com/mutheejj)
