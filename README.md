@@ -36,8 +36,8 @@
 
 ### 🚀 Featured Projects  
 
-<a href="https://github.com/mutheejj/Game-Battle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=Game-Battle&theme=tokyonight" />
+<a href="https://github.com/mutheejj/ajira">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=ajira&theme=tokyonight" />
 </a>
 <a href="https://github.com/mutheejj/DesireDial">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=DesireDial&theme=tokyonight" />
