@@ -50,8 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats (Stable & Always Working)
-
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mutheejj?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/mutheejj?label=Stars&style=for-the-badge" />
