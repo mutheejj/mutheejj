@@ -1,55 +1,116 @@
-### Hi there, I'm [John Muthee!](https://johnmuthee.helioho.st/) 👋  
-<a href="https://www.linkedin.com/in/johnmuthee"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
-<a href="https://github.com/mutheejj"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
-<a href="https://twitter.com/mutheejj"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" /></a>
-<a href="mailto:johnmuthee547@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
+<!-- ✅ HEADER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mutheejj/mutheejj/main/assets/header.gif" width="100%" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mutheejj)
-
----
-
-💻 **Full-Stack Software Engineer** | **Laravel, React, Node, Python (Django), Docker, AWS**  
-🚀 Passionate about building **secure, scalable, and cloud-ready systems**  
-🇰🇪 Based in **Nairobi, Kenya**
+<h1 align="center">👋 Hey, I'm <strong>John Muthee</strong></h1>
+<p align="center">Full-Stack Software Engineer | Cloud & DevOps Enthusiast</p>
 
 ---
 
-### 🔧 About Me  
-- 🧠 Certified Software Engineer (ALX Africa)  
-- 🎓 Pursuing BSc. Information Technology at Mount Kenya University  
-- ⚙️ Experienced with Laravel, React, Node.js, MySQL, and AWS  
-- 🌍 Currently learning Python (AI & Automation)  
-- 🤝 Open to freelance and collaboration opportunities  
-- 💬 Ask me about web development, APIs, or automation  
-- 📫 Reach me: **[johnmuthee547@gmail.com](mailto:johnmuthee547@gmail.com)**  
-- ⚡ Fun fact: I love clean UI, black coffee ☕, and late-night coding sessions.  
+<!-- ✅ SOCIAL ICONS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/johnmuthee">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="https://github.com/mutheejj">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+  <a href="mailto:johnmuthee547@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats  
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutheejj&layout=compact&theme=tokyonight)](https://github.com/mutheejj)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutheejj&theme=tokyonight)
-
----
-
-### 🚀 Featured Projects  
-
-<a href="https://github.com/mutheejj/ajira">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=ajira&theme=tokyonight" />
-</a>
-<a href="https://github.com/mutheejj/alx-backend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=alx-backend&theme=tokyonight" />
-</a>
-<a href="https://github.com/mutheejj/alx-backend-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=alx-backend-python&theme=tokyonight" />
-</a>
-<a href="https://github.com/mutheejj/alx-backend-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mutheejj&repo=alx-backend-python&theme=tokyonight" />
-</a>
+<!-- ✅ BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-FF9800?style=for-the-badge" />
+</p>
 
 ---
 
-⭐ **Let’s connect and build something great together.**  
-📩 [LinkedIn](https://www.linkedin.com/in/johnmuthee) | [Portfolio](https://johnmuthee.helioho.st/) | [GitHub](https://github.com/mutheejj)
+## 🚀 About Me
+
+✅ Certified Software Engineer (ALX Africa)  
+✅ Full-stack developer focused on scalable systems  
+✅ Passionate about DevOps, Cloud, and AI automation  
+✅ Obsessed with clean UI & problem-solving  
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,django,php,python,js,ts" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git,linux,nginx" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Stable & Always Working)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mutheejj?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/mutheejj?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/mutheejj?label=Public%20Repos&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/contributions/mutheejj?style=for-the-badge" />
+  <img src="https://badges.pufler.dev/years/mutheejj?style=for-the-badge" />
+  <img src="https://badges.pufler.dev/commits/monthly/mutheejj?style=for-the-badge" />
+</p>
+
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mutheejj/ajira">
+        <img src="https://skillicons.dev/icons?i=laravel,react" width="100"/><br/>
+        <strong>Ajira Global</strong><br/>
+        Remote job hiring platform
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mutheejj/desiredial">
+        <img src="https://skillicons.dev/icons?i=django,react" width="100"/><br/>
+        <strong>DesireDial</strong><br/>
+        Real-time chat app
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mutheejj/game-battle">
+        <img src="https://skillicons.dev/icons?i=java,androidstudio" width="100"/><br/>
+        <strong>Game Battle</strong><br/>
+        Android chess game
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mutheejj?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/mutheejj?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=mutheejj&style=for-the-badge"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+📩 Email: **johnmuthee547@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/johnmuthee**  
+🌐 Portfolio: **johnmuthee.helioho.st**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mutheejj/mutheejj/main/assets/footer.gif" width="100%"/>
+</p>
