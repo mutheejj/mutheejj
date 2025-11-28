@@ -32,12 +32,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-✅ Certified Software Engineer (ALX Africa)  
-✅ Full-stack developer focused on scalable systems  
-✅ Passionate about DevOps, Cloud, and AI automation  
-✅ Obsessed with clean UI & problem-solving  
+- Software Engineer focused on building scalable and reliable digital systems  
+- Full-stack developer skilled in Laravel, React, Node.js, Flutter & cloud deployment  
+- Passionate about clean architecture, automation, and high-performance apps  
+- Dedicated to crafting intuitive, user-centered interfaces with modern UI/UX practices  
+- Driven by problem-solving, innovation, and creating impactful technology  
+
 
 ---
 
