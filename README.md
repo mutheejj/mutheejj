@@ -51,19 +51,21 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats 
+
+<!-- Main Stats -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mutheejj?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/mutheejj?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/mutheejj?label=Public%20Repos&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=bd93f9&icon_color=ff00ff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutheejj&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=bd93f9&icon_color=ff00ff" height="180" />
 </p>
 
+<!-- Cyberpunk Streak -->
 <p align="center">
-  <img src="https://badges.pufler.dev/contributions/mutheejj?style=for-the-badge" />
-  <img src="https://badges.pufler.dev/years/mutheejj?style=for-the-badge" />
-  <img src="https://badges.pufler.dev/commits/monthly/mutheejj?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mutheejj&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00ff&fire=ff00ff&currStreakLabel=00eaff" height="190" />
 </p>
+
+
 
 
 ## 🚀 Featured Projects
