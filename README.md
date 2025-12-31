@@ -10,7 +10,7 @@
 
 <!-- ✅ SOCIAL ICONS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/johnmuthee">
+  <a href="https://www.linkedin.com/in/johnmutheemaina">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   <a href="https://github.com/mutheejj">
