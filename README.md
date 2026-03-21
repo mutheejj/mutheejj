@@ -34,46 +34,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## � Current Projects
 
-> *"I don't just write code — I architect solutions that scale, perform, and last."*
-
-I'm a **Senior Full-Stack Software Engineer** with deep expertise across the entire software delivery lifecycle — from requirements analysis and system design through to production deployment and monitoring. Based in **Nairobi, Kenya**, I build high-impact digital products for global clients and teams.
-
-- 🏗️ **Architect** of distributed, microservice-based and monolithic systems built for scale
-- ⚡ **Full-stack specialist** in **Laravel**, **React**, **Node.js**, **Django**, **Flutter** — and the cloud infra behind them
-- ☁️ **Cloud-native** practitioner: AWS, Docker, Nginx, CI/CD pipelines, zero-downtime deployments
-- 🔐 Passionate about **clean code**, **SOLID principles**, **TDD**, and **security-first** engineering
-- 🎨 Strong eye for **UX/UI** — I bridge the gap between engineering and product design
-- 🌍 **Open source contributor** and advocate for developer community growth in Africa
-- 📐 Experienced in leading engineering teams, conducting code reviews, and defining technical roadmaps
+- **[Ajira Global](https://github.com/mutheejj/ajira)** - Full-featured remote job hiring platform with employer dashboards and applicant tracking
+- **[DesireDial](https://github.com/mutheejj/desiredial)** - Real-time messaging app with WebSocket communication and group chats
+- **[Game Battle](https://github.com/mutheejj/game-battle)** - Multiplayer Android chess game with AI opponent and ELO ranking
+- **E-Commerce API** - RESTful backend with product catalog, cart, and payment integration (Laravel/MySQL)
+- **Flutter Mobile App** - Cross-platform app with clean architecture and offline-first design
+- **DevOps Pipeline** - GitHub Actions + Docker + AWS zero-downtime deployment automation
 
 ---
 
-## 💼 Experience Highlights
-
-<table>
-  <tr>
-    <td><b>🚀 Systems Designed</b></td>
-    <td>End-to-end platforms serving real users — job boards, chat systems, mobile apps, APIs</td>
-  </tr>
-  <tr>
-    <td><b>🛠️ Stack Depth</b></td>
-    <td>Backend APIs, frontend SPAs, mobile (Flutter/Android), DevOps pipelines, databases</td>
-  </tr>
-  <tr>
-    <td><b>📦 Delivery Model</b></td>
-    <td>Agile/Scrum, Git-flow, CI/CD with GitHub Actions, Docker Compose, cloud deployments</td>
-  </tr>
-  <tr>
-    <td><b>🤝 Collaboration</b></td>
-    <td>Cross-functional teams, remote-first workflows, technical mentorship</td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Toolbox
+## 🛠️ Tech Stack
 
 ### 🔵 Languages
 <p>
