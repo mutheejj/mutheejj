@@ -20,25 +20,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-<!-- PROFILE BADGES -->
-<p>
-  <a href="https://github.com/mutheejj">
-    <img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/johnmutheemaina">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:johnmuthee547@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://john.mas.codes">
-    <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-  </a>
-</p>
-
 <!-- STATUS BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-4CAF50?style=flat-square"/>
@@ -56,13 +37,11 @@
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 **Email** | [johnmuthee547@gmail.com](mailto:johnmuthee547@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/johnmutheemaina](https://www.linkedin.com/in/johnmutheemaina) |
-| 🌐 **Portfolio** | [john.mas.codes](https://john.mas.codes/) |
-| 🐙 **GitHub** | [github.com/mutheejj](https://github.com/mutheejj) |
-| 💖 **Sponsor** | [github.com/sponsors/mutheejj](https://github.com/sponsors/mutheejj) |
+|  |  |
+|:--:|:--:|
+| <a href="mailto:johnmuthee547@gmail.com"><img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/johnmutheemaina"><img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+| <a href="https://john.mas.codes"><img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a> | <a href="https://github.com/mutheejj"><img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| <a href="https://github.com/sponsors/mutheejj"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a> | |
 
 </div>
 
