@@ -62,7 +62,7 @@
 ---
 
 <div align="center">
-  <img src="https://ghcont.vercel.app/api?username=mutheejj&theme=tokyonight" alt="GitHub contribution graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutheejj&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub contribution graph" width="100%"/>
 </div>
 
 ---
