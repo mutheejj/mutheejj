@@ -51,14 +51,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutheejj&hide_border=true&theme=tokyonight&background=0d1117&stroke=00eaff&ring=bd93f9&fire=ff6b6b&currStreakLabel=c9d1d9" height="150"/>
 </div>
 
+<div align="center">
+  <img src="https://ghcont.vercel.app/api?username=mutheejj&theme=tokyonight" alt="GitHub contribution graph"/>
+</div>
+
 ---
 
-## 🤖 AI & Machine Learning Work
+## 🤖 AI Work
 
-- **RLHF & Model Evaluation** — Reinforcement Learning from Human Feedback, fine-tuning LLMs for specific tasks
-- **ML Evaluation Pipelines** — Building automated systems for model performance testing and bias detection  
-- **AI Integration** — Embedding LLMs into developer tools and geospatial workflows (see [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor) VS Code extension)
-- **Geospatial AI** — Applying computer vision to satellite imagery analysis
+- **RLHF Code Evaluation** — Doing code preference evaluation on Labelbox for Reinforcement Learning from Human Feedback
+- **LLM Integration** — Building developer tools with embedded language models (see [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor) VS Code extension)
 
 ---
 
