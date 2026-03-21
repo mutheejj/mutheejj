@@ -62,41 +62,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🔵 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,dart,bash" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,figma" />
-</p>
-
-### 🟢 Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,fastapi,flutter" />
-</p>
-
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase" />
-</p>
-
-### ☁️ Cloud, DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,git,vercel,cloudflare" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,github,gitlab,notion" />
-</p>
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&icon_color=bd93f9" height="160"/>
@@ -126,19 +92,7 @@ If you find my open source work useful, consider supporting development:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mutheejj/mutheejj/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mutheejj/mutheejj/output/github-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mutheejj/mutheejj/output/github-snake.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 📬 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 > Open to **freelance projects**, **full-time roles**, **technical consulting**, and **open source collaboration**.
 
