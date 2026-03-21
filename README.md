@@ -37,11 +37,13 @@
 
 <div align="center">
 
-|  |  |
-|:--:|:--:|
-| <a href="mailto:johnmuthee547@gmail.com"><img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/johnmutheemaina"><img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-| <a href="https://john.mas.codes"><img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a> | <a href="https://github.com/mutheejj"><img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| <a href="https://github.com/sponsors/mutheejj"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a> | |
+| Platform | Link |
+|----------|------|
+| ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white) | [johnmuthee547@gmail.com](mailto:johnmuthee547@gmail.com) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) | [linkedin.com/in/johnmutheemaina](https://www.linkedin.com/in/johnmutheemaina) |
+| ![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=firefox-browser&logoColor=white) | [john.mas.codes](https://john.mas.codes/) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | [github.com/mutheejj](https://github.com/mutheejj) |
+| ![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white) | [github.com/sponsors/mutheejj](https://github.com/sponsors/mutheejj) |
 
 </div>
 
