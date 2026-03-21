@@ -20,24 +20,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-<!-- PROFILE BADGES -->
-<p>
-  <a href="https://github.com/mutheejj">
-    <img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/johnmutheemaina">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:johnmuthee547@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://john.mas.codes">
-    <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-  </a>
-</p>
 
 <!-- STATUS BADGES -->
 <p>
@@ -50,7 +32,7 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 - **[KICC Virtual Exhibitions](https://kiccvirtualexhibitions.co.ke/)** — Interactive virtual exhibition platform for Kenya International Convention Centre
 - **[Tano Dairy](https://tanodairy.net/)** — Digital platform for dairy farm management and operations
@@ -59,25 +41,6 @@
 - **[Modulink AI](https://modulinkai.mas.codes/)** — AI-powered modular automation and workflow tool
 - **[AI Tools](https://tools.mas.codes/)** — Suite of productivity AI tools and utilities
 - **[mas.codes](https://mas.codes/)** — Portfolio and project showcase hub
-
-<!-- PROFILE BADGES -->
-<p>
-  <a href="https://github.com/mutheejj">
-    <img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/johnmutheemaina">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:johnmuthee547@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://john.mas.codes">
-    <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -109,23 +72,24 @@ If you find my open source work useful, consider supporting development:
 
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/johnmutheemaina">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" title="LinkedIn"/>
-  </a>
-  &nbsp;
+<!-- PROFILE BADGES -->
+<p>
   <a href="https://github.com/mutheejj">
-    <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/johnmutheemaina">
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:johnmuthee547@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" title="Email"/>
+    <img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+  <a href="https://john.mas.codes">
+    <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
   <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/%E2%9D%A4-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
