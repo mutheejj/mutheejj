@@ -1,7 +1,22 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+%F0%9F%91%8B;Senior+Full-Stack+Software+Engineer;Cloud+%26+DevOps+Architect;Open+Source+Contributor;Building+Scalable+Digital+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+%F0%9F%91%8B;Full-Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+
+<!-- CONCISE BIO -->
+<p align="center">
+  <sub>Building scalable web apps and mobile solutions with Laravel, React, Flutter & AWS. Based in Nairobi, Kenya.</sub>
+</p>
+
+<!-- TECH BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+</p>
 
 <!-- PROFILE BADGES -->
 <p>
@@ -79,92 +94,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> A selection of projects that demonstrate my engineering depth across different domains.
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🌍 Ajira Global</b></td>
-      <td>Full-featured remote job hiring platform with employer dashboards, applicant tracking, role-based access, and real-time notifications</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=laravel,react,mysql,docker" height="30"/>
-      </td>
-      <td>
-        <a href="https://github.com/mutheejj/ajira"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>💬 DesireDial</b></td>
-      <td>Real-time messaging platform with WebSocket communication, user presence indicators, group chats, and media sharing</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=django,react,postgres,redis" height="30"/>
-      </td>
-      <td>
-        <a href="https://github.com/mutheejj/desiredial"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>♟️ Game Battle</b></td>
-      <td>Multiplayer Android chess game with AI opponent, online matchmaking, ELO ranking system, and game replay functionality</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase" height="30"/>
-      </td>
-      <td>
-        <a href="https://github.com/mutheejj/game-battle"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🛒 E-Commerce API</b></td>
-      <td>RESTful e-commerce backend with product catalog, cart, order management, payment integration, and admin CMS</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=laravel,mysql,redis,docker" height="30"/>
-      </td>
-      <td>
-        <a href="https://github.com/mutheejj"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>📱 Flutter Mobile App</b></td>
-      <td>Cross-platform mobile application with clean architecture, BLoC state management, offline-first design, and REST API integration</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="30"/>
-      </td>
-      <td>
-        <a href="https://github.com/mutheejj"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔧 DevOps Pipeline</b></td>
-      <td>Automated CI/CD pipeline with GitHub Actions, Dockerized microservices, Nginx reverse proxy, and zero-downtime deployments on AWS</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions" height="30"/>
-      </td>
-      <td>
-        <a href="https://github.com/mutheejj"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-  <a href="https://github.com/mutheejj?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-0A66C2?style=for-the-badge&logo=github"/>
-  </a>
-</div>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&icon_color=bd93f9&include_all_commits=true&count_private=true" height="180"/>
@@ -195,34 +125,10 @@
 
 ## 🌱 Currently Exploring
 
-<table>
-  <tr>
-    <td>
-      <b>🦀 Rust</b> — Systems programming and WebAssembly<br/>
-      <b>☸️ Kubernetes</b> — Container orchestration at scale<br/>
-      <b>🤖 AI/ML Integration</b> — LLM APIs, embeddings, RAG pipelines<br/>
-    </td>
-    <td>
-      <b>📐 System Design</b> — Distributed systems, event-driven architecture<br/>
-      <b>🔭 Web3</b> — Smart contracts and decentralized apps<br/>
-      <b>🏎️ Performance Engineering</b> — Profiling, benchmarking, optimization<br/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Engineering Philosophy
-
-```text
-✔  Write code for humans first, computers second
-✔  Every system should be observable, testable, and recoverable
-✔  Automate everything that can be automated
-✔  Clean architecture beats clever hacks — always
-✔  Ship early, iterate fast, measure everything
-✔  Security is not a feature — it's a foundation
-✔  Great products are built by great teams — invest in people
-```
+- **Rust** — Systems programming and WebAssembly
+- **Kubernetes** — Container orchestration at scale  
+- **AI/ML Integration** — LLM APIs, embeddings, RAG pipelines
+- **System Design** — Distributed systems, event-driven architecture
 
 ---
 
