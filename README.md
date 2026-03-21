@@ -34,9 +34,6 @@
   <a href="https://john.mas.codes">
     <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
-  <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-  </a>
 </p>
 
 <!-- STATUS BADGES -->
@@ -62,7 +59,6 @@
 | 💼 **LinkedIn** | [linkedin.com/in/johnmutheemaina](https://www.linkedin.com/in/johnmutheemaina) |
 | 🌐 **Portfolio** | [john.mas.codes](https://john.mas.codes/) |
 | 🐙 **GitHub** | [github.com/mutheejj](https://github.com/mutheejj) |
-| 💖 **Sponsor** | [github.com/sponsors/mutheejj](https://github.com/sponsors/mutheejj) |
 
 </div>
 
@@ -88,15 +84,3 @@
 
 - **RLHF Code Evaluation** — Doing code preference evaluation on Labelbox for Reinforcement Learning from Human Feedback
 - **LLM Integration** — Building developer tools with embedded language models (see [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor) VS Code extension)
-
----
-
-## 💖 Sponsor My Work
-
-If you find my open source work useful, consider supporting development:
-
-<div align="center">
-  <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-  </a>
-</div>
