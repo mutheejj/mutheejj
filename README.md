@@ -49,7 +49,7 @@
 
 ---
 
-## � Current Projects
+## 🚀 Current Projects
 
 - **[Ajira Global](https://github.com/mutheejj/ajira)** - Full-featured remote job hiring platform with employer dashboards and applicant tracking
 - **[DesireDial](https://github.com/mutheejj/desiredial)** - Real-time messaging app with WebSocket communication and group chats
@@ -97,28 +97,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&icon_color=bd93f9&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutheejj&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mutheejj&theme=tokyonight&hide_border=true&background=0d1117&ring=00eaff&fire=bd93f9&currStreakLabel=00eaff&sideLabels=c9d1d9&dates=c9d1d9" height="190"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutheejj&bg_color=0d1117&color=00eaff&line=bd93f9&point=ff79c6&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mutheejj&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&icon_color=bd93f9" height="160"/>
 </div>
 
 ---
