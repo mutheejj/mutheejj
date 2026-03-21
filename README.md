@@ -78,6 +78,10 @@
 - **[AI Tools](https://tools.mas.codes/)** — Suite of productivity AI tools and utilities
 - **[mas.codes](https://mas.codes/)** — Portfolio and project showcase hub
 
+<div align="center">
+  <img src="https://ghcont.vercel.app/api?username=mutheejj&theme=tokyonight" alt="GitHub contribution graph"/>
+</div>
+
 ---
 
 ## 🤖 AI Work
