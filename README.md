@@ -60,23 +60,24 @@
 - **[AI Tools](https://tools.mas.codes/)** — Suite of productivity AI tools and utilities
 - **[mas.codes](https://mas.codes/)** — Portfolio and project showcase hub
 
----
-
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&icon_color=bd93f9" height="160"/>
-</div>
-
----
-
-## 🔭 What I'm Building
-
-Exploring the intersection of AI, geospatial tech, and developer tooling:
-- **LLM-powered workflows** — Integrating AI into everyday development tools
-- **Geospatial platforms** — Satellite imagery visualization and earth observation data
-- **Developer experience** — VS Code extensions and productivity tooling *(like [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor))*
-- **Automation systems** — AI-powered modular workflows and intelligent pipelines
+<!-- PROFILE BADGES -->
+<p>
+  <a href="https://github.com/mutheejj">
+    <img src="https://img.shields.io/badge/GitHub-mutheejj-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/johnmutheemaina">
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Muthee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:johnmuthee547@gmail.com">
+    <img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://john.mas.codes">
+    <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sponsors/mutheejj">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
