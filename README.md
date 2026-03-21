@@ -5,17 +5,19 @@
 
 <!-- CONCISE BIO -->
 <p align="center">
-  <sub>Building scalable web apps and mobile solutions with Laravel, React, Flutter & AWS. Based in Nairobi, Kenya.</sub>
+  <sub>Building scalable web apps and mobile solutions with TypeScript, React, Laravel & Python. Based in Nairobi, Kenya.</sub>
 </p>
 
 <!-- TECH BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 <!-- PROFILE BADGES -->
@@ -29,8 +31,8 @@
   <a href="mailto:johnmuthee547@gmail.com">
     <img src="https://img.shields.io/badge/Email-johnmuthee547%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://johnmuthee.helioho.st">
-    <img src="https://img.shields.io/badge/Portfolio-johnmuthee.helioho.st-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <a href="https://john.mas.codes">
+    <img src="https://img.shields.io/badge/Portfolio-john.mas.codes-4CAF50?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
   <a href="https://github.com/sponsors/mutheejj">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
@@ -39,9 +41,8 @@
 
 <!-- STATUS BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-%F0%9F%87%B0%F0%9F%87%AA-1E90FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack%20Engineer-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-FF9800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-FF9800?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=mutheejj&style=flat-square&color=blueviolet&label=Profile+Views"/>
 </p>
 
@@ -51,12 +52,13 @@
 
 ## 🚀 Current Projects
 
-- **[Ajira Global](https://github.com/mutheejj/ajira)** - Full-featured remote job hiring platform with employer dashboards and applicant tracking
-- **[DesireDial](https://github.com/mutheejj/desiredial)** - Real-time messaging app with WebSocket communication and group chats
-- **[Game Battle](https://github.com/mutheejj/game-battle)** - Multiplayer Android chess game with AI opponent and ELO ranking
-- **E-Commerce API** - RESTful backend with product catalog, cart, and payment integration (Laravel/MySQL)
-- **Flutter Mobile App** - Cross-platform app with clean architecture and offline-first design
-- **DevOps Pipeline** - GitHub Actions + Docker + AWS zero-downtime deployment automation
+- **[KICC Virtual Exhibitions](https://kiccvirtualexhibitions.co.ke/)** — Interactive virtual exhibition platform for Kenya International Convention Centre
+- **[Tano Dairy](https://tanodairy.net/)** — Digital platform for dairy farm management and operations
+- **[Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor)** — Open source VS Code extension for enhanced developer workflow *(open source)*
+- **[Spaceview](https://spaceview.mas.codes/)** — Satellite imagery and geospatial data visualization platform
+- **[Modulink AI](https://modulinkai.mas.codes/)** — AI-powered modular automation and workflow tool
+- **[AI Tools](https://tools.mas.codes/)** — Suite of productivity AI tools and utilities
+- **[mas.codes](https://mas.codes/)** — Portfolio and project showcase hub
 
 ---
 
@@ -102,40 +104,25 @@
 
 ---
 
-## 🌱 Currently Exploring
+## 🔭 What I'm Building
 
-- **Rust** — Systems programming and WebAssembly
-- **Kubernetes** — Container orchestration at scale  
-- **AI/ML Integration** — LLM APIs, embeddings, RAG pipelines
-- **System Design** — Distributed systems, event-driven architecture
-
----
-
-## 🤝 Open Source & Community
-
-- 🌍 Advocate for **tech community growth in East Africa**
-- 📝 Share knowledge through code, documentation, and peer mentoring
-- 🛠️ Contribute to open source tooling and libraries
-- 🎓 Mentoring junior developers breaking into software engineering
-- 💡 Participate in hackathons and developer conferences
+Exploring the intersection of AI, geospatial tech, and developer tooling:
+- **LLM-powered workflows** — Integrating AI into everyday development tools
+- **Geospatial platforms** — Satellite imagery visualization and earth observation data
+- **Developer experience** — VS Code extensions and productivity tooling *(like [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor))*
+- **Automation systems** — AI-powered modular workflows and intelligent pipelines
 
 ---
 
-## 💖 Support My Work
+## 💖 Sponsor My Work
 
-If my projects, code, or open source work have helped you, consider sponsoring me to help sustain and grow the work:
+If you find my open source work useful, consider supporting development:
 
 <div align="center">
   <a href="https://github.com/sponsors/mutheejj">
-    <img src="https://img.shields.io/badge/Sponsor%20Me%20on%20GitHub-%E2%9D%A4%EF%B8%8F%20Become%20a%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
   </a>
 </div>
-
-Your sponsorship directly funds:
-- 🔧 Building and maintaining open source tools
-- 📚 Writing technical articles and tutorials
-- 🌍 Supporting developer community initiatives in Africa
-- ⚡ Continued learning and skill development
 
 ---
 
@@ -161,7 +148,7 @@ Your sponsorship directly funds:
 |----------|------|
 | 📧 **Email** | [johnmuthee547@gmail.com](mailto:johnmuthee547@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/johnmutheemaina](https://www.linkedin.com/in/johnmutheemaina) |
-| 🌐 **Portfolio** | [johnmuthee.helioho.st](https://johnmuthee.helioho.st) |
+| 🌐 **Portfolio** | [john.mas.codes](https://john.mas.codes/) |
 | 🐙 **GitHub** | [github.com/mutheejj](https://github.com/mutheejj) |
 | 💖 **Sponsor** | [github.com/sponsors/mutheejj](https://github.com/sponsors/mutheejj) |
 
