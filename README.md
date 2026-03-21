@@ -5,7 +5,7 @@
 
 <!-- CONCISE BIO -->
 <p align="center">
-  <sub>Building scalable web apps and mobile solutions with TypeScript, React, Laravel & Python. Based in Nairobi, Kenya.</sub>
+  <sub>Currently building <strong>Spaceview</strong>, a geospatial data platform for satellite imagery visualization & analysis.</sub>
 </p>
 
 <!-- TECH BADGES -->
@@ -24,7 +24,7 @@
 <!-- STATUS BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-FF9800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Availability-Freelance%20%26%20Contract-FF9800?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=mutheejj&style=flat-square&color=blueviolet&label=Profile+Views"/>
 </p>
 
@@ -44,6 +44,24 @@
 
 ---
 
+##  GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&icon_color=bd93f9&hide=stars" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutheejj&hide_border=true&theme=tokyonight&background=0d1117&stroke=00eaff&ring=bd93f9&fire=ff6b6b&currStreakLabel=c9d1d9" height="150"/>
+</div>
+
+---
+
+## 🤖 AI & Machine Learning Work
+
+- **RLHF & Model Evaluation** — Reinforcement Learning from Human Feedback, fine-tuning LLMs for specific tasks
+- **ML Evaluation Pipelines** — Building automated systems for model performance testing and bias detection  
+- **AI Integration** — Embedding LLMs into developer tools and geospatial workflows (see [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor) VS Code extension)
+- **Geospatial AI** — Applying computer vision to satellite imagery analysis
+
+---
+
 ## 💖 Sponsor My Work
 
 If you find my open source work useful, consider supporting development:
@@ -58,7 +76,7 @@ If you find my open source work useful, consider supporting development:
 
 ##  Let's Connect & Collaborate
 
-> Open to **freelance projects**, **full-time roles**, **technical consulting**, and **open source collaboration**.
+> Currently available for **freelance projects** and **contract roles** in full-stack development, AI integration, and geospatial platforms.
 
 <div align="center">
 
