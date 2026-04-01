@@ -45,6 +45,8 @@
 | ![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=firefox-browser&logoColor=white) | [john.mas.codes](https://john.mas.codes/) |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | [github.com/mutheejj](https://github.com/mutheejj) |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | [leetcode.com/u/muthee](https://leetcode.com/u/muthee/) |
+| ![Lablab.ai](https://img.shields.io/badge/Lablab.ai-6366F1?style=flat&logo=ai&logoColor=white) | [lablab.ai/u/@mutheejj](https://lablab.ai/u/@mutheejj) |
+| ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) | [reddit.com/user/FantasticMind3659](https://www.reddit.com/user/FantasticMind3659/) |
 | ![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat&logo=bluesky&logoColor=white) | [bsky.app/profile/mutheejj.bsky.social](https://bsky.app/profile/mutheejj.bsky.social) |
 | ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) | [+254 (Contact via Email)](mailto:johnmuthee547@gmail.com) |
 | ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white) | [Scan QR Code](https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png) |
