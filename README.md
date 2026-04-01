@@ -22,6 +22,7 @@
 
 <!-- STATUS BADGES -->
 <p>
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-1E90FF?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-4CAF50?style=flat-square"/>
   <img src="https://img.shields.io/badge/Availability-Freelance%20%26%20Contract-FF9800?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=mutheejj&style=flat-square&color=blueviolet&label=Profile+Views"/>
@@ -43,6 +44,11 @@
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) | [linkedin.com/in/johnmutheemaina](https://www.linkedin.com/in/johnmutheemaina) |
 | ![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=flat&logo=firefox-browser&logoColor=white) | [john.mas.codes](https://john.mas.codes/) |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | [github.com/mutheejj](https://github.com/mutheejj) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | [leetcode.com/u/muthee](https://leetcode.com/u/muthee/) |
+| ![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat&logo=bluesky&logoColor=white) | [bsky.app/profile/mutheejj.bsky.social](https://bsky.app/profile/mutheejj.bsky.social) |
+| ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) | [+254 (Contact via Email)](mailto:johnmuthee547@gmail.com) |
+| ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white) | [Scan QR Code](https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png) |
+| ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) | mutheejj |
 | ![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white) | [github.com/sponsors/mutheejj](https://github.com/sponsors/mutheejj) |
 
 </div>
