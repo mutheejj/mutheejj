@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+%F0%9F%91%8B;Full-Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+%F0%9F%91%8B;Full-Stack+Software+Engineer;AI+%26+Automation+Builder)](https://git.io/typing-svg)
 
 <!-- CONCISE BIO -->
 <p align="center">
