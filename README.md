@@ -48,7 +48,7 @@
 | ![Lablab.ai](https://img.shields.io/badge/Lablab.ai-6366F1?style=flat&logo=ai&logoColor=white) | [lablab.ai/u/@mutheejj](https://lablab.ai/u/@mutheejj) |
 | ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) | [reddit.com/user/FantasticMind3659](https://www.reddit.com/user/FantasticMind3659/) |
 | ![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat&logo=bluesky&logoColor=white) | [bsky.app/profile/mutheejj.bsky.social](https://bsky.app/profile/mutheejj.bsky.social) |
-| ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) | [+254 (Contact via Email)](mailto:johnmuthee547@gmail.com) |
+| ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) | [+254 768 498 013](https://wa.me/254768498013) |
 | ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white) | [Scan QR Code](https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png) |
 | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) | johnmuthee |
 | ![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white) | [github.com/sponsors/mutheejj](https://github.com/sponsors/mutheejj) |
