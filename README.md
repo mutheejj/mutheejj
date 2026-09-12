@@ -69,6 +69,19 @@ Plus a growing set of **agentic AI platforms** — open-source tools for the mul
 
 ---
 
+## What I Work With
+
+| Area | Tools and technologies |
+|------|------------------------|
+| Languages | TypeScript, Python, PHP, SQL, Dart |
+| Frontend | React, React Native, Next.js |
+| Backend | Laravel, Node.js, REST APIs |
+| Data | PostgreSQL, MySQL, Redis |
+| AI and Agents | LLM integration, agent orchestration, MCP, RLHF evaluation |
+| Practices | CI/CD, testing, open source, developer tooling |
+
+---
+
 ## 🤖 AI Work
 
 - **Agentic platforms** — Building agent infrastructure: orchestration, memory, and testing tools for AI agents
