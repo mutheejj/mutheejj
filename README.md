@@ -5,7 +5,7 @@
 
 <!-- CONCISE BIO -->
 <p align="center">
-  <sub>Currently building <strong>Spaceview</strong>, a geospatial data platform for satellite imagery visualization & analysis.</sub>
+  <sub>Currently working on applied AI systems and full-stack products. Building quietly, shipping deliberately.</sub>
 </p>
 
 <!-- TECH BADGES -->
@@ -34,7 +34,7 @@
 
 ##  Let's Connect
 
-> Currently available for **freelance projects** and **contract roles** in full-stack development, AI integration, and geospatial platforms.
+> Currently available for **freelance projects** and **contract roles** in full-stack development, AI integration, and agentic platforms.
 
 <div align="center">
 
@@ -57,15 +57,15 @@
 
 ---
 
-## Current Projects
+## 🚀 What I'm Building
 
-- **[KICC Virtual Exhibitions](https://kiccvirtualexhibitions.co.ke/)** — Interactive virtual exhibition platform for Kenya International Convention Centre
-- **[Tano Dairy](https://tanodairy.net/)** — Digital platform for dairy farm management and operations
-- **[Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor)** — Open source VS Code extension for enhanced developer workflow *(open source)*
-- **[Spaceview](https://spaceview.mas.codes/)** — Satellite imagery and geospatial data visualization platform
-- **[Modulink AI](https://modulinkai.mas.codes/)** — AI-powered modular automation and workflow tool
-- **[AI Tools](https://tools.mas.codes/)** — Suite of productivity AI tools and utilities
-- **[mas.codes](https://mas.codes/)** — Portfolio and project showcase hub
+A stack of production-grade systems spanning HR technology, workforce platforms, and agentic AI infrastructure — built for African markets and beyond:
+
+- **HR System** — Full-featured human resource management: payroll, leave, performance, and employee lifecycle
+- **AjiraWorks** — Work and gig-economy platform connecting talent to opportunity
+- **AlfaTalent** — Talent management and development platform
+
+Plus a growing set of **agentic AI platforms** — open-source tools for the multi-agent era (see below 👇)
 
 ---
 
@@ -77,14 +77,26 @@
 
 ## 🤖 AI Work
 
-- **RLHF Code Evaluation** — Doing code preference evaluation on Labelbox for Reinforcement Learning from Human Feedback
-- **LLM Integration** — Building developer tools with embedded language models (see [Andor](https://marketplace.visualstudio.com/items?itemName=mutheejj.andor) VS Code extension)
+- **Agentic platforms** — Building agent infrastructure: orchestration, memory, and testing tools for AI agents
+- **LLM Integration** — Embedding language models into real products and developer tools
+- **Applied ML & Automation** — Practical AI-driven systems that solve real operational problems
 
 ---
 
 ## 💖 Sponsor My Work
 
-If you find my open source work useful, consider supporting development:
+I build tools for the multi-agent era in the open. If my work saves you time, consider supporting development.
+
+### Open Source — Sponsorable Projects
+
+| Project | What it does |
+|---------|-------------|
+| [🧠 agent-memory-server](https://github.com/mutheejj/agent-memory-server) | Self-hosted, git-backed memory layer any AI agent can plug into — sessions, tasks, decisions, full-text search |
+| [🌿 worktree-orchestrator](https://github.com/mutheejj/worktree-orchestrator) | Run isolated AI agent tasks in parallel git worktrees with model routing and conflict-safe merging |
+| [🧪 agent-test-harness](https://github.com/mutheejj/agent-test-harness) | Chaos testing for AI agents — adversarial, replayable scenarios that grade agent recovery |
+| [💳 mcp-african-markets](https://github.com/mutheejj/mcp-african-markets) | MCP servers for African fintech — agentic tooling for payments, reconciliation, and market data |
+| [🩺 repo-doctor](https://github.com/mutheejj/repo-doctor) | An agent that clones any repo, runs its tests, diagnoses failures, and writes PR-ready reports |
+| [⏰ cron-for-agents](https://github.com/mutheejj/cron-for-agents) | Scheduled agent jobs with dedup, watermarking, and delivery to Telegram, WhatsApp, or email |
 
 <div align="center">
   <a href="https://github.com/sponsors/mutheejj">
