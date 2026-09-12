@@ -69,13 +69,6 @@ Plus a growing set of **agentic AI platforms** — open-source tools for the mul
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutheejj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutheejj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" height="165"/>
-</div>
-
----
-
 ## 🤖 AI Work
 
 - **Agentic platforms** — Building agent infrastructure: orchestration, memory, and testing tools for AI agents
