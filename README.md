@@ -62,8 +62,8 @@
 A stack of production-grade systems spanning HR technology, workforce platforms, and agentic AI infrastructure — built for African markets and beyond:
 
 - **HR System** — Full-featured human resource management: payroll, leave, performance, and employee lifecycle
-- **AjiraWorks** — Work and gig-economy platform connecting talent to opportunity
-- **AlfaTalent** — Talent management and development platform
+- **[AjiraWorks](https://www.ajiraworks.com/)** — Work and gig-economy platform connecting talent to opportunity
+- **[AlfaTalent](https://alfatalent.africa/)** — Talent management and development platform
 
 Plus a growing set of **agentic AI platforms** — open-source tools for the multi-agent era (see below 👇)
 
@@ -79,7 +79,6 @@ Plus a growing set of **agentic AI platforms** — open-source tools for the mul
 ## 🤖 AI Work
 
 - **Agentic platforms** — Building agent infrastructure: orchestration, memory, and testing tools for AI agents
-- **LLM Integration** — Embedding language models into real products and developer tools
 - **Applied ML & Automation** — Practical AI-driven systems that solve real operational problems
 
 ---
@@ -92,12 +91,12 @@ I build tools for the multi-agent era in the open. If my work saves you time, co
 
 | Project | What it does |
 |---------|-------------|
-| [🧠 agent-memory-server](https://github.com/mutheejj/agent-memory-server) | Self-hosted, git-backed memory layer any AI agent can plug into — sessions, tasks, decisions, full-text search |
-| [🌿 worktree-orchestrator](https://github.com/mutheejj/worktree-orchestrator) | Run isolated AI agent tasks in parallel git worktrees with model routing and conflict-safe merging |
-| [🧪 agent-test-harness](https://github.com/mutheejj/agent-test-harness) | Chaos testing for AI agents — adversarial, replayable scenarios that grade agent recovery |
-| [💳 mcp-african-markets](https://github.com/mutheejj/mcp-african-markets) | MCP servers for African fintech — agentic tooling for payments, reconciliation, and market data |
-| [🩺 repo-doctor](https://github.com/mutheejj/repo-doctor) | An agent that clones any repo, runs its tests, diagnoses failures, and writes PR-ready reports |
-| [⏰ cron-for-agents](https://github.com/mutheejj/cron-for-agents) | Scheduled agent jobs with dedup, watermarking, and delivery to Telegram, WhatsApp, or email |
+| [agent-memory-server](https://github.com/mutheejj/agent-memory-server) | Self-hosted, git-backed memory layer any AI agent can plug into — sessions, tasks, decisions, full-text search |
+| [worktree-orchestrator](https://github.com/mutheejj/worktree-orchestrator) | Run isolated AI agent tasks in parallel git worktrees with model routing and conflict-safe merging |
+| [agent-test-harness](https://github.com/mutheejj/agent-test-harness) | Chaos testing for AI agents — adversarial, replayable scenarios that grade agent recovery |
+| [mcp-african-markets](https://github.com/mutheejj/mcp-african-markets) | MCP servers for African fintech — agentic tooling for payments, reconciliation, and market data |
+| [repo-doctor](https://github.com/mutheejj/repo-doctor) | An agent that clones any repo, runs its tests, diagnoses failures, and writes PR-ready reports |
+| [cron-for-agents](https://github.com/mutheejj/cron-for-agents) | Scheduled agent jobs with dedup, watermarking, and delivery to Telegram, WhatsApp, or email |
 
 <div align="center">
   <a href="https://github.com/sponsors/mutheejj">
