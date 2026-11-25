@@ -1,4 +1,4 @@
-# John Maina
+# John Muthee Maina
 
 **Full-stack engineer in Nairobi, working on applied AI and agentic systems.**
 
