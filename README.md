@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-1E90FF?style=flat-square&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20%26%20AI%20Engineer-4CAF50?style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-FF9800?style=flat-square"/>
 <img src="https://komarev.com/ghpvc/?username=mutheejj&style=flat-square&color=blueviolet&label=Profile+Views"/>
