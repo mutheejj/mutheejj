@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+Maina;Full-Stack+Software+Engineer;Applied+AI+%26+Agentic+Systems)](https://git.io/typing-svg)
 
-<sub>Full-stack engineer in Nairobi building web and mobile products end to end, and the AI agent systems that run inside them.</sub>
+<sub>Full-stack engineer building web and mobile products end to end, and the AI agent systems that run inside them.</sub>
 
 <br/><br/>
 
@@ -10,8 +10,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20%26%20AI%20Engineer-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-FF9800?style=flat-square"/>
 <img src="https://komarev.com/ghpvc/?username=mutheejj&style=flat-square&color=blueviolet&label=Profile+Views"/>
 
 </div>
