@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+Maina;Full-Stack+Software+Engineer;Applied+AI+%26+Agentic+Systems)](https://git.io/typing-svg)
+<img src="assets/banner.svg" alt="John Muthee Maina, full-stack and AI engineer" width="100%"/>
 
 <sub>Full-stack engineer building web and mobile products end to end, and the AI agent systems that run inside them.</sub>
 
