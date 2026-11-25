@@ -1,22 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+Maina+%F0%9F%91%8B;Full-Stack+Software+Engineer;Applied+AI+%26+Agentic+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+John+Muthee+Maina;Full-Stack+Software+Engineer;Applied+AI+%26+Agentic+Systems)](https://git.io/typing-svg)
 
 <sub>Full-stack engineer in Nairobi building web and mobile products end to end, and the AI agent systems that run inside them.</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,laravel,php,python,nodejs,flutter,postgres,mysql,redis,docker&perline=12" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-1E90FF?style=flat-square&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20%26%20AI%20Engineer-4CAF50?style=flat-square"/>
@@ -27,35 +19,33 @@
 
 ---
 
-### ⚡ What I do
+### What I do
 
-- 🧠 **AI and agents**: LLM integration, multi-agent orchestration, MCP servers, agent memory
-- 🌐 **Full-stack products**: Next.js and React on the front, Laravel and Node.js behind
-- 📱 **Mobile**: React Native and Flutter apps
-- 💳 **Payments**: M-Pesa (Daraja) and African fintech integrations
+- **AI and agents**: LLM integration, multi-agent orchestration, MCP servers, agent memory
+- **Full-stack products**: Next.js and React on the front, Laravel and Node.js behind
+- **Mobile**: React Native and Flutter apps
+- **Payments**: M-Pesa (Daraja) and African fintech integrations
 
-### 🔭 Featured
+### Featured
 
-| Project | What it is |
-|---------|-----------|
-| 🤖 [**andor**](https://github.com/mutheejj/andor) | AI coding agent for VS Code: reads your codebase, writes files, runs commands. No API keys needed. |
+**[andor](https://github.com/mutheejj/andor)**: AI coding agent for VS Code that reads your codebase, writes files and runs commands. No API keys needed.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's connect
+### Let's connect
 
-<a href="https://john.mas.codes/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/johnmutheemaina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:johnmuthee547@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/254768498013"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://bsky.app/profile/mutheejj.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="https://leetcode.com/u/muthee/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://lablab.ai/u/@mutheejj"><img src="https://img.shields.io/badge/Lablab.ai-6366F1?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/FantasticMind3659/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://github.com/sponsors/mutheejj"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+<a href="https://john.mas.codes/" title="Portfolio"><img src="https://cdn.simpleicons.org/firefoxbrowser" width="32" height="32" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/johnmutheemaina" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:johnmuthee547@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail" width="32" height="32" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/254768498013" title="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp" width="32" height="32" alt="WhatsApp"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://bsky.app/profile/mutheejj.bsky.social" title="Bluesky"><img src="https://cdn.simpleicons.org/bluesky" width="32" height="32" alt="Bluesky"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/FantasticMind3659/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit" width="32" height="32" alt="Reddit"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/muthee/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode" width="32" height="32" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png" title="WeChat QR code"><img src="https://cdn.simpleicons.org/wechat" width="32" height="32" alt="WeChat"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sponsors/mutheejj" title="Sponsor"><img src="https://cdn.simpleicons.org/githubsponsors" width="32" height="32" alt="Sponsor"/></a>
 
-<sub>Discord: <b>johnmuthee</b> · WeChat: <a href="https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png">QR code</a></sub>
+<sub>Discord: <b>johnmuthee</b> · <a href="https://lablab.ai/u/@mutheejj">lablab.ai/u/@mutheejj</a></sub>
 
 </div>
