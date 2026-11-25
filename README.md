@@ -44,8 +44,8 @@
 <a href="https://www.reddit.com/user/FantasticMind3659/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit" width="32" height="32" alt="Reddit"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/muthee/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode" width="32" height="32" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png" title="WeChat QR code"><img src="https://cdn.simpleicons.org/wechat" width="32" height="32" alt="WeChat"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sponsors/mutheejj" title="Sponsor"><img src="https://cdn.simpleicons.org/githubsponsors" width="32" height="32" alt="Sponsor"/></a>
-
-<sub>Discord: <b>johnmuthee</b> · <a href="https://lablab.ai/u/@mutheejj">lablab.ai/u/@mutheejj</a></sub>
+<a href="https://github.com/sponsors/mutheejj" title="Sponsor"><img src="https://cdn.simpleicons.org/githubsponsors" width="32" height="32" alt="Sponsor"/></a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/discord" width="32" height="32" alt="Discord: johnmuthee" title="Discord: johnmuthee"/>&nbsp;&nbsp;&nbsp;
+<a href="https://lablab.ai/u/@mutheejj" title="lablab.ai"><img src="https://lablab.ai/favicon.ico" width="32" height="32" alt="lablab.ai"/></a>
 
 </div>
