@@ -53,6 +53,7 @@
 <a href="https://bsky.app/profile/mutheejj.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
 <a href="https://leetcode.com/u/muthee/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://lablab.ai/u/@mutheejj"><img src="https://img.shields.io/badge/Lablab.ai-6366F1?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/FantasticMind3659/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://github.com/sponsors/mutheejj"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
 
 <sub>Discord: <b>johnmuthee</b> · WeChat: <a href="https://github.com/mutheejj/mutheejj/blob/main/logos/1000158090.png">QR code</a></sub>
