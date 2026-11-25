@@ -31,7 +31,7 @@
 
 - 🧠 **AI and agents**: LLM integration, multi-agent orchestration, MCP servers, agent memory
 - 🌐 **Full-stack products**: Next.js and React on the front, Laravel and Node.js behind
-- 📱 **Mobile**: React Native and Flutter apps shipped to real users
+- 📱 **Mobile**: React Native and Flutter apps
 - 💳 **Payments**: M-Pesa (Daraja) and African fintech integrations
 
 ### 🔭 Featured
