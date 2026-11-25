@@ -23,11 +23,7 @@
 - **AI and agents**: LLM integration, multi-agent orchestration, MCP servers, agent memory
 - **Full-stack products**: Next.js and React on the front, Laravel and Node.js behind
 - **Mobile**: React Native and Flutter apps
-- **Payments**: M-Pesa (Daraja) and African fintech integrations
-
-### Featured
-
-**[andor](https://github.com/mutheejj/andor)**: AI coding agent for VS Code that reads your codebase, writes files and runs commands. No API keys needed.
+- **Payments**: M-Pesa (Daraja), KopoKopo, Stripe, PayPal, Paystack, Flutterwave and DPO integrations
 
 ---
 
